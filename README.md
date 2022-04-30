@@ -15,14 +15,14 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](http://michael-threels.me/book-store/)
 
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-- Git clone https://github.com/mikethreels/formula1
+- Git clone https://github.com/mikethreels/book-store.git
 - Move to the root directory in your command line
 - run `npm install`
 - run `npm start`
